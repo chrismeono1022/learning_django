@@ -1,0 +1,1 @@
+Some django app... not sure what it will be yet, just learning the framework now
